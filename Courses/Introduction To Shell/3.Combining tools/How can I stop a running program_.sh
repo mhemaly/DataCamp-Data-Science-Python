@@ -1,0 +1,2 @@
+$ head
+Ctrl + C

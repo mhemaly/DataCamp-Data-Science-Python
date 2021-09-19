@@ -1,0 +1,3 @@
+$ cd seasonal
+$ pwd
+$ ls

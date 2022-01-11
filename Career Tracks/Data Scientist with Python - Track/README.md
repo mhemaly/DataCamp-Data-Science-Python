@@ -50,7 +50,14 @@ In this track, you'll learn how this versatile language allows you to import, cl
 
 
 
+<br>
 
+**Notes**: 
+
+* This version date is (SEP 2020) the track may have been updated today.
+).
+* All materials is belong to [DataCamp](https://datacamp.com), this repo created for reference and self-documentation purpose.
+* Feel free to contribute!.
 
 
 

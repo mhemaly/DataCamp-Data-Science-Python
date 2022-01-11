@@ -37,7 +37,14 @@ In this track, you’ll learn how to import, clean, manipulate, and visualize da
 
 
 
+<br>
 
+**Notes**: 
+
+* This is the old version (DEC 2020) the track have been updated today with new course (Working with Categorical Data in Python
+).
+* All materials is belong to [DataCamp](https://datacamp.com), this repo created for reference and self-documentation purpose.
+* Feel free to contribute!.
 
 
 
